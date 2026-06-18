@@ -1,0 +1,2 @@
+# A-Global-GDP-Trend-Prediction-and-Visualization-System-Based-on-Deep-Learning
+ The system integrates real-world economic data with deep  learning models, specifically Multi-Layer Perceptron (MLP) and Long Short-Term Memory  (LSTM) neural networks, to generate forecasts for future GDP. The web interface allows users to  select countries, visualize historical trends, and compare predictions interactively. 
